@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "reviews": 245,
+    "poster": "https://placehold.co/300x450/1a1a2e/ffffff?text=Inception",
+    "description": "A thief who steals corporate secrets through dream-sharing technology is given a chance to erase his criminal history by planting an idea into a target's mind."
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.0,
+    "reviews": 312,
+    "poster": "https://placehold.co/300x450/0f3460/ffffff?text=The+Dark+Knight",
+    "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos and forces the hero to confront the thin line between justice and vengeance."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 8.6,
+    "reviews": 198,
+    "poster": "https://placehold.co/300x450/2c2c54/ffffff?text=Interstellar",
+    "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival as Earth becomes uninhabitable."
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "reviews": 220,
+    "poster": "https://placehold.co/300x450/16213e/ffffff?text=The+Matrix",
+    "description": "A computer hacker discovers that reality as he knows it is a simulation and joins a rebellion to free humanity from the machines that control it."
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 8.9,
+    "reviews": 275,
+    "poster": "https://placehold.co/300x450/35323e/ffffff?text=Pulp+Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption in Los Angeles."
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 8.8,
+    "reviews": 210,
+    "poster": "https://placehold.co/300x450/2d4059/ffffff?text=Forrest+Gump",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, and other historic events unfold from the perspective of an Alabama man with a big heart."
+  },
+  {
+    "id": 7,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.3,
+    "reviews": 350,
+    "poster": "https://placehold.co/300x450/1b262c/ffffff?text=Shawshank",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "id": 8,
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": "Animation",
+    "rating": 8.6,
+    "reviews": 180,
+    "poster": "https://placehold.co/300x450/3d348b/ffffff?text=Spirited+Away",
+    "description": "A young girl wanders into a world ruled by gods and spirits where humans are changed into beasts and she must find a way to free her parents."
+  },
+  {
+    "id": 9,
+    "title": "Toy Story",
+    "year": 1995,
+    "genre": "Animation",
+    "rating": 8.3,
+    "reviews": 165,
+    "poster": "https://placehold.co/300x450/7678ed/ffffff?text=Toy+Story",
+    "description": "A cowboy doll is profoundly threatened when a new spaceman action figure supplants him as the top toy in a boy's bedroom."
+  },
+  {
+    "id": 10,
+    "title": "The Conjuring",
+    "year": 2013,
+    "genre": "Horror",
+    "rating": 7.5,
+    "reviews": 132,
+    "poster": "https://placehold.co/300x450/191919/ffffff?text=The+Conjuring",
+    "description": "Paranormal investigators help a family terrorized by a dark presence in their farmhouse and uncover the horrifying truth behind it."
+  },
+  {
+    "id": 11,
+    "title": "Get Out",
+    "year": 2017,
+    "genre": "Horror",
+    "rating": 7.7,
+    "reviews": 145,
+    "poster": "https://placehold.co/300x450/2b2b2b/ffffff?text=Get+Out",
+    "description": "A young Black man visits his white girlfriend's family estate and uncovers a disturbing truth about the people living there."
+  },
+  {
+    "id": 12,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "rating": 8.5,
+    "reviews": 240,
+    "poster": "https://placehold.co/300x450/3c2e2e/ffffff?text=Parasite",
+    "description": "A poor family schemes to become employed by a wealthy household by infiltrating their lives one job at a time, with unexpected consequences."
+  },
+  {
+    "id": 13,
+    "title": "Se7en",
+    "year": 1995,
+    "genre": "Thriller",
+    "rating": 8.6,
+    "reviews": 190,
+    "poster": "https://placehold.co/300x450/1a1a1a/ffffff?text=Se7en",
+    "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives, leading them to a shocking final discovery."
+  },
+  {
+    "id": 14,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genre": "Comedy",
+    "rating": 8.1,
+    "reviews": 120,
+    "poster": "https://placehold.co/300x450/9b59b6/ffffff?text=Grand+Budapest",
+    "description": "A legendary concierge at a famous hotel and his protégé become involved in the theft of a priceless painting and a battle for a fortune."
+  },
+  {
+    "id": 15,
+    "title": "Superbad",
+    "year": 2007,
+    "genre": "Comedy",
+    "rating": 7.6,
+    "reviews": 98,
+    "poster": "https://placehold.co/300x450/e67e22/ffffff?text=Superbad",
+    "description": "Two co-dependent high school seniors attempt to score alcohol for a party, leading to a series of misadventures before graduation."
+  }
+]
